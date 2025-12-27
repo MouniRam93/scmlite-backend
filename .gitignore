@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python cache
 __pycache__/
 *.pyc
@@ -12,5 +13,19 @@ env/
 .env
 
 # OS files
+=======
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+env/
+venv/
+
+# OS
+>>>>>>> feat/readme-update
 .DS_Store
 Thumbs.db
